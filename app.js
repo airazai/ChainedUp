@@ -42,11 +42,10 @@ qsa('.slider').forEach(slider=>{
 const products = [
   {id:'cat-fox', name:'Keychain Hewan Rubah', cat:'Keychain hewan', price:10000, img:'assets/images/cat-hewan.svg', stock:10, rating:4.7},
   {id:'cat-bear', name:'Keychain Hewan Beruang', cat:'Keychain hewan', price:12000, img:'assets/images/cat-hewan.svg', stock:0, rating:4.5},
-  {id:'fruit-apple', name:'Keychain Buah Apel', cat:'Keychain berbentuk buah', price:8000, img:'assets/images/cat-buah.svg', stock:8, rating:4.4},
-  {id:'custom-text', name:'Keychain Custom Nama', cat:'Keychain custom', price:16000, img:'assets/images/cat-custom.svg', stock:20, rating:4.6},
+  {id:'fruit-apple', name:'Keychain Aneka Buah', cat:'Keychain berbentuk buah', price:8000, img:'assets/images/cat-buah.svg', stock:8, rating:4.4},
+  {id:'custom', name:'Keychain Custom', cat:'Keychain custom', price:16000, img:'assets/images/cat-custom.svg', stock:20, rating:4.6},
   {id:'album-mini', name:'Keychain Album Mini', cat:'Keychain album', price:14000, img:'assets/images/cat-album.svg', stock:3, rating:4.2},
   {id:'lyric-card', name:'Keychain Lirik Lagu', cat:'Keychain lirik lagu', price:16000, img:'assets/images/cat-lirik.svg', stock:9, rating:4.4},
-  {id:'cat-animal', name:'Keychain Aneka Hewan', cat:'Keychain hewan', price:10000, img:'assets/images/cat-hewan.svg', stock:10, rating:4.7},
   {id:'cat-animal', name:'Keychain Aneka Hewan', cat:'Keychain hewan', price:10000, img:'assets/images/cat-hewan.svg', stock:10, rating:4.7},
 ];
 
